@@ -1,0 +1,6 @@
+{
+  "name": "STEM Canvas",
+  "description": "An interactive whiteboard and teacher dashboard designed for STEM learning, featuring drawing, formula building, and an intelligent AI STEM assistant co-pilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
